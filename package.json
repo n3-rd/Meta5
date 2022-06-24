@@ -1,0 +1,9 @@
+{
+  "name": "meta5",
+  "version": "1.0.0",
+  "description": "A metatrader 5 App",
+  "main": "index.js",
+  "repository": "https://github.com/n3-rd/Meta5",
+  "author": "n3-rd",
+  "license": "MIT"
+}
